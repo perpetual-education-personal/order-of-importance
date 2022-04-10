@@ -5,6 +5,8 @@ In order of importance. _Please_ help us make this the best list it can be. Mayb
 
 The big-picture [success checklist](https://perpetual.education/resources/success-checklist/) already exists. That includes things like your attitude etc., - but here is a more concrete list of things that you can do to PROVE your abilities to yourself.
 
+There's this other quora answer Derek wrote - that also has the order of things [here](https://perpetual.education/in-what-order-should-i-learn-design-and-development-for-the-web/)
+
 We expect most of these to point to the projects that are already in the DFTW curriculumn but that we can also suggest more projects too.
 
 These things are the things you need to know. When you're learning so many things - it can be tricky to stay centered. So, here's a list. We're going to try our best to give you ways to prove your understanding of these - but if we don't: It's your job to make sure you feel confident with this. Figure out a way to prove it to _yourself_. That's when you'll _really_ **know** you know it. If all else fails, practice. And ask for help to see things from a different prospective that might click.
@@ -18,7 +20,7 @@ If you are taking a hard-line towards UX or programming specifically, then some 
 
 - Students can fork the repo and use it as an optional resume piece
 
-- This might be a bit long-winded as we (derek in this case) writes it - but hopefully we can keep it really clear and simple
+- This might be a bit long-winded as we (derek in this case) writes it - but hopefully we can then edit it down and keep it clear and simple
 
 ---
 
