@@ -5,9 +5,9 @@ In order of importance. _Please_ help us make this the best list it can be. Mayb
 
 The big-picture [success checklist](https://perpetual.education/resources/success-checklist/) already exists. That includes things like your attitude etc., - but here is a more concrete list of things that you can do to PROVE your abilities to yourself.
 
-There's this other quora answer Derek wrote - that also has the order of things [here](https://perpetual.education/in-what-order-should-i-learn-design-and-development-for-the-web/)
+There's this other Quora answer Derek wrote - that also has the order of things [here](https://perpetual.education/in-what-order-should-i-learn-design-and-development-for-the-web/)
 
-We expect most of these to point to the projects that are already in the DFTW curriculumn but that we can also suggest more projects too.
+We expect most of these to point to the projects that are already in the DFTW curriculum but that we can also suggest more projects too.
 
 These things are the things you need to know. When you're learning so many things - it can be tricky to stay centered. So, here's a list. We're going to try our best to give you ways to prove your understanding of these - but if we don't: It's your job to make sure you feel confident with this. Figure out a way to prove it to _yourself_. That's when you'll _really_ **know** you know it. If all else fails, practice. And ask for help to see things from a different prospective that might click.
 
@@ -62,7 +62,7 @@ We think you should be writing about your process and learning experience. We ca
 
 ## ⬤ HTML and CSS
 
-We learn a bunch of stuff later in the course about HTML / so, we'll note that further down. But if you are revisiting these projects later - then you should totally incorperate those ideas here.
+We learn a bunch of stuff later in the course about HTML / so, we'll note that further down. But if you are revisiting these projects later - then you should totally incorporate those ideas here.
 
 ### How to traverse the file structure with the OS, the command line, and have a clear understanding of file paths and how to link HTML documents and images etc.
 
@@ -72,7 +72,7 @@ This might seem _basic_ but we see students (and even senior devs) just guessing
 
 ### How to write the HTML and CSS for a really beautiful article
 
-We're talking beautiful for all readers. That means robot web crawlers, screen-readers and all the web reading technologies. Semantic HTML elements. An article (like this one here) - is essentially a data-structure, right? For the most part all of these elements are naturally responsive to the viewport. 
+We're talking beautiful for all readers. That means robot web crawlers, screen-readers and all the web reading technologies. Semantic HTML elements. An article (like this one here) - is essentially a data-structure, right? For the most part all of these elements are naturally responsive to the view-port. 
 
 Which units do you use for what? Why?
 
@@ -80,7 +80,7 @@ Some companies like [Medium](https://medium.com/) or [SubStack](https://substack
 
 Also a good time to use an HTML validator or run a lighthouse test.
 
-This is a great time to do user testing. You can ask your friends and family. If the article is really enjoyable to read, then you can iterate.
+This is a great time to do user testing. You can ask your friends and family. If the article is really enjoyable to read, then you can iterate. If it's not A+ then it's not done.
 
 - [ ] Done [link to proof](https://peprojects.dev)
 
@@ -91,7 +91,7 @@ You can make many different article styles. And this will clearly extend to all 
 
 This can really be 1 page. It needs to say who you are, what you are doing, why we would care, and how to contact you. You can link to your newsletter. You can have more than one page. It should look "good" - leaving no reason to doubt your sense of taste.
 
-You can have someone else help with fonts and spacing if that is hard. Simple and functional and publically available.
+You can have someone else help with fonts and spacing if that is hard. Simple and functional and publicly available.
 
 Being able to pair down and really understand basic legibility and content - shows a lot more about you than programming will. It's hard. But it'll get easier if you try it.
 
@@ -103,6 +103,37 @@ This should be changing many many times throughout the course. But if you ever g
 
 (Simple + done) > complex and broken or unfinished.
 
+This also assumes that it's up on the web with FTP etc.
+
+Again: you can test this with people. It should be a unanimous success or it's not successful.
+
+Things this could help prove:
+
+- Should respond to all view-port size and have solid type choices
+- You know how to employ images / and ensure they are the right size
+- You can use the dev tools to gauge performance on a basic level
+- Validation / and basic accessibility
+- if you are revisiting this 
+	- then extra accessibility testing
+	- dark mode / contrast checks
+
+
+### Understanding metadata
+
+You should be well acquainted with rich social sharing assets and why that is helpful for everyone.
+
+What happens if there is no metadata? What are all of the options?
+
+Even if you aren't planning on being a _graphic designer_ - you're still going to need to know how to crop images and prepare them for things like this. This also touches on _content strategy_ and SEO.
+
+You could make a series of examples and test them. You could write a post about various options.
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+- if you are revisiting this later
+	- you could look into structured data
+	- site maps
+
 
 ### The name of the thing
 
@@ -118,11 +149,10 @@ Why it's important and how you know you for sure know it
 - [ ] Done [link to proof](https://peprojects.dev)
 
 
-### The name of the thing
 
-Why it's important and how you know you for sure know it
+## ⬤ Section title
 
-- [ ] Done [link to proof](https://peprojects.dev)
+...
 
 
 ### The name of the thing
