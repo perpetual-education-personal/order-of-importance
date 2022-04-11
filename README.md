@@ -95,7 +95,7 @@ You can have someone else help with fonts and spacing if that is hard. Simple an
 
 Being able to pair down and really understand basic legibility and content - shows a lot more about you than programming will. It's hard. But it'll get easier if you try it.
 
-We also suggest you get your **/goals** and **/resume** pages going early.
+We also suggest you get your [**/goals** and **/resume** pages](https://perpetual.education/exercises/goals-and-resume-pages/) going early.
 
 - [ ] Done [link to proof](https://peprojects.dev)
 
@@ -107,7 +107,7 @@ This also assumes that it's up on the web with FTP etc.
 
 Again: you can test this with people. It should be a unanimous success or it's not successful.
 
-Things this could help prove:
+**Things this could help prove:**
 
 - Should respond to all view-port size and have solid type choices
 - You know how to employ images / and ensure they are the right size
@@ -135,12 +135,27 @@ You could make a series of examples and test them. You could write a post about 
 	- site maps
 
 
-### The name of the thing
+### Basic graphic creation
 
-Why it's important and how you know you for sure know it
+We know that not everyone _wants_ to make graphics. But everyone should at least know how to use the shapes and combine them and subtract them and use a graphics program to copy a simple logo or amend a graphic you are given.
+
+You should know how to use the tools enough to say "Yes. I've used the graphics programs and can open up files and work with them and export them." (even if you never end up doing that at work - it will help you get the job)
+
+What can you do? Create your own logo. Create some graphics for your blog posts. Create some thumbnails for your projects. Or do one of the exercises like this [thing-a-day](https://perpetual.education/exercises/thing-a-day/)
 
 - [ ] Done [link to proof](https://peprojects.dev)
 
+---
+
+Around this time is the website structure challenge
+
+We could make a more advanced challenge for that ^.
+
+### MILESTONE-01: https://peprojects.dev/milestones/early-html
+
+Here are all of the things that students are expected to understand in depth at this point. They have the skills to look at the code - and everything should be clear. At this point there is a small set of elements and uses. So, if anything here isn't clear - then we should go over that in detail. And there probably needs to be a lot more practice.
+
+---
 
 ### The name of the thing
 
