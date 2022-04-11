@@ -53,6 +53,12 @@ Detailed outlines/drawings. [human-data-collection](https://perpetual.education/
 
 - [ ] Done
 
+### Write about your learning journey and process
+
+We think you should be writing about your process and learning experience. We can't make you do it, but we know that if you do - you'll learn more, make better work, understand the process more - and make a lot more money. You can always go back and edit your posts later.
+
+- [ ] Happening [link to proof](https://peprojects.dev)
+
 
 ## ⬤ HTML and CSS
 
@@ -66,7 +72,48 @@ This might seem _basic_ but we see students (and even senior devs) just guessing
 
 ### How to write the HTML and CSS for a really beautiful article
 
-We're talking beautiful for all readers. That means robot web crawlers, screen-readers and all the web reading technologies.
+We're talking beautiful for all readers. That means robot web crawlers, screen-readers and all the web reading technologies. Semantic HTML elements. An article (like this one here) - is essentially a data-structure, right? For the most part all of these elements are naturally responsive to the viewport. 
+
+Which units do you use for what? Why?
+
+Some companies like [Medium](https://medium.com/) or [SubStack](https://substack.com/) are 100% reliant on a great typography system. It may seem trivial - but it's not. People get paid hundreds of thousands of dollars a year - to just think about _this_.
+
+Also a good time to use an HTML validator or run a lighthouse test.
+
+This is a great time to do user testing. You can ask your friends and family. If the article is really enjoyable to read, then you can iterate.
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+You can make many different article styles. And this will clearly extend to all future projects, right?
+
+
+### A basic business-card style website
+
+This can really be 1 page. It needs to say who you are, what you are doing, why we would care, and how to contact you. You can link to your newsletter. You can have more than one page. It should look "good" - leaving no reason to doubt your sense of taste.
+
+You can have someone else help with fonts and spacing if that is hard. Simple and functional and publically available.
+
+Being able to pair down and really understand basic legibility and content - shows a lot more about you than programming will. It's hard. But it'll get easier if you try it.
+
+We also suggest you get your **/goals** and **/resume** pages going early.
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+This should be changing many many times throughout the course. But if you ever get lost - you can always come back to this state.
+
+(Simple + done) > complex and broken or unfinished.
+
+
+### The name of the thing
+
+Why it's important and how you know you for sure know it
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+
+### The name of the thing
+
+Why it's important and how you know you for sure know it
 
 - [ ] Done [link to proof](https://peprojects.dev)
 
