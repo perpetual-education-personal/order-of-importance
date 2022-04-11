@@ -159,14 +159,6 @@ Here are all of the things that students are expected to understand in depth at 
 
 ---
 
-### Sandboxes and public learning
-
-If you're having fun, you'll likely have lots of CodePens. But in general, you should be comfortable with _JSFiddle, CodePen, Glitch, Flems, Plunker or whatever_. You get how they work. You know that _sometimes_ it is better to create a small example in there - than building out a whole project locally. These are especially great for asking questions on StackOverflow and Discord etc.
-
-If you don't have an account on StackOverflow and Discord - and you aren't answering questions on there for practice, you are missing out on a lot of learning and you aren't building any history for recruiter to see your activity.
-
-- [ ] Done [link to proof](https://peprojects.dev)
-
 
 ### Practicing making websites
 
@@ -187,6 +179,8 @@ The 'research and destroy' project is a push to get you copying existing website
 - [ ] There's _really_ no reason - why you couldn't do one of these every day...
 
 
+[tending-your-garden](https://perpetual.education/resources/tending-your-garden/) (is this the right spot?)
+
 ---
 
 This is all still before flexbox.
@@ -204,14 +198,13 @@ We usually sneak @media rules and other tricks in based on the student. This sta
 
 There are a few key things you just have to know. Then everything going forward will be much easier.
 
-You have to understand the box-model. For real. It's simple. If you can't explain it in full - then you haven't spent any time thinking trying. So, box model, box-sizing, why block elements can't be inside inline elements, how to fit it, how to make images behave, the display type options (_seriously_), clamp, media queries, a little tiny snippet of CSS grid, and CSS positioning.
+You have to understand the box-model. For real. It's simple. If you can't explain it in full - then you haven't spent any time thinking trying. So, box model, box-sizing, why block elements can't be inside inline elements, how to fit it, how to make images behave, the display type options (_seriously_), clamp, media queries.
 
 - [the-next-pieces](https://perpetual.education/lesson/layout-and-decisions/)
-- [responsive-layout-checklist](https://perpetual.education/resources/responsive-layout-checklist/)
 
 - [ ] Done [link to proof](https://peprojects.dev)
 
-This is where you should probably have a bunch of experiments on your websites or in CodPen. You should **want** to use positioning in interesting places. It's always one of the first things people ask about, but then when we get to it - everyone is a deer in headlights.
+This is where you should probably have a bunch of experiments on your websites or in CodePen.
 
 
 ### Mock small business project
@@ -228,6 +221,106 @@ And learn to _ask_ for feedback. That's key. Simple content is better than a big
 	- These would be great portfolio pieces
 
 - [ ] Done [link to proof](https://peprojects.dev)
+
+
+### Start using version control
+
+For now, you can use your own website and your pe-projects folder locally. You can start building up those green squares and pushing to gitHub. It'll keep things safe, and you could practice branching.
+
+- [ ] Done (the proof will be on your github profile)
+
+
+### Learn how to create/export SVGs to be used as code
+
+At the very least, you should have a handle on this process. You can totally revisit the paired-down resources on this later. [svg-preperation](https://perpetual.education/resources/svg-preperation/)
+
+But these can be really impressive to people. You should have at least 1 interactive SVG on your portfolio later on when we get to JavaScript. So, try and find something that is exciting to you and that can fit in with what type of company you want to work for.
+
+- [ ] Done
+
+
+### Super Responsive Challenge: Responsive layout (officially)
+
+This is the main deal! Front-end developers make the part that people see. That means the data that crawlers see - and the look and feel of the layout. This is when we get serious about flexbox and responsive layouts.
+
+You absolutely have to know how to build the common base page layout. That means a footer that sticks at the bottom of the page, probably a sticky header, columns etc.. Way too often people get further on in the course and they make sites with no reset, no CSS partials, not type-patterns, and it just seems like they didn't take this part seriously. So, if you couldn't knock one of these out in 5 minutes while we watch - then that's you!
+
+Also: You should **want** to use positioning in interesting places. It's always one of the first things people ask about, but then when we get to it - everyone is a deer in headlights. If you don't try a whole bunch of ideas out and really understand how it works / then you might as well - just never learn it at all. Choose now. Do it now.
+
+At this point, you should be able to recreate just about any website layout. [responsive-layout-checklist](https://perpetual.education/resources/responsive-layout-checklist/)
+
+- [ ] Done [link to challenge 1](https://peprojects.dev)
+
+- [ ] Done [link to challenge 2](https://peprojects.dev)
+
+
+### Responsive layout garden
+
+After you pulled off the responsive layout challenge, it's time to keep going.
+
+[responsive-layout-collection](https://perpetual.education/exercises/responsive-layout-collection/)
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+
+
+### Sandboxes and public learning
+
+If you're having fun, you'll likely have lots of CodePens. But in general, you should be comfortable with _JSFiddle, CodePen, Glitch, Flems, Plunker or whatever_. You get how they work. You know that _sometimes_ it is better to create a small example in there - than building out a whole project locally. These are especially great for asking questions on StackOverflow and Discord etc.
+
+If you don't have an account on StackOverflow and Discord - and you aren't answering questions on there for practice, you are missing out on a lot of learning and you aren't building any history for recruiter to see your activity. Being able to answer questions will do wonders for your confidence and will help solidify your knowledge.
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+
+
+
+---
+
+...
+
+### CONSOLIDATION MEETING: 
+
+This is when Ivy and Derek meet with the students. Roughly 1/3 of the way through in theory.
+
+(Starting with alpha-4) We actually keep a Doc about each student now from the beginning.
+
+...
+
+---
+
+
+
+
+## ⬤ Style
+
+...
+
+
+### The name of the thing
+
+Why it's important and how you know you for sure know it
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+
+
+
+
+---
+
+...
+
+### MILESTONE-03: https://peprojects.dev/milestones/ (Derek is making these milestones ASAP)
+
+...
+
+---
+
+
+
+
+
 
 
 
