@@ -157,6 +157,49 @@ Here are all of the things that students are expected to understand in depth at 
 
 ---
 
+### Sandboxes and public learning
+
+If you're having fun, you'll likely have lots of CodePens. But in general, you should be comfortable with _JSFiddle, CodePen, Glitch, Flems, Plunker or whatever_. You get how they work. You know that _sometimes_ it is better to create a small example in there - than building out a whole project locally. These are especially great for asking questions on StackOverflow and Discord etc.
+
+If you don't have an account on StackOverflow and Discord - and you aren't answering questions on there for practice, you are missing out on a lot of learning and you aren't building any history for recruiter to see your activity.
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+
+### Practicing making websites
+
+You'll have plenty of time to start trying copying websites.
+
+You'll be getting more tools. Anchor links, CSS reset, some misc positioning techniques, more uses for inline-block elements and alignment, floats, box-sizing, more typography, CSS classes, inner-column ideas, and linked style-sheets to control many pages.
+
+The 'research and destroy' project is a push to get you copying existing websites. This is something you can do to practice for the rest of the course/career. (you can make it fun)
+
+- [ ] Uncle Bill [link to proof](https://peprojects.dev)
+
+- [ ] Research/Destroy example [link to proof](https://peprojects.dev)
+
+- [ ] Hopefully you wanted to make more things...  [link to proof](https://peprojects.dev)
+
+---
+
+This is all still before flexbox.
+
+### MILESTONE-02: https://peprojects.dev/milestones/ (Derek is making these milestones ASAP)
+
+Being able to create all these things - even without flexbox will prove that you really understand everything so far and especially display types and some alignment ideas.
+
+We usually sneak @media rules and other tricks in based on the student. This stage should be challenging you enough to want to figure out why images and links and a bunch of stuff is breaking your layout.
+
+---
+
+
+### The name of the thing
+
+Why it's important and how you know you for sure know it
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+
 ### The name of the thing
 
 Why it's important and how you know you for sure know it
@@ -175,3 +218,18 @@ Why it's important and how you know you for sure know it
 Why it's important and how you know you for sure know it
 
 - [ ] Done [link to proof](https://peprojects.dev)
+
+
+
+
+
+---
+
+...
+
+### MILESTONE-03: https://peprojects.dev/milestones/ (Derek is making these milestones ASAP)
+
+...
+
+---
+
