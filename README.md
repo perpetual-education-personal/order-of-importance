@@ -568,6 +568,8 @@ You'll have a pretty impressive WordPress project with multiple connected resour
 
 and you'll have lots of examples of using JS together with a server-side rendered system.
 
+Some people will want to transfer their personal site to WordPress. Others will enjoy it as the PHP version.
+
 ---
 
 
@@ -604,7 +606,7 @@ Why it's important and how you know you for sure know it
 
 Hopefully you have ideas. But if not, we'll give you some...
 
-At the very least - you'll have a really great todo list
+At the very least - you'll have a really great todo list. We will make that the super wrong way - and then show you how to do it right.
 
 - [ ] Done [link to proof](https://peprojects.dev)
 
