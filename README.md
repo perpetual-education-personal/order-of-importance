@@ -7,6 +7,8 @@ The big-picture [success checklist](https://perpetual.education/resources/succes
 
 There's this other Quora answer Derek wrote - that also has the order of things [here](https://perpetual.education/in-what-order-should-i-learn-design-and-development-for-the-web/)
 
+There's also Study Hall: which - has a lot of these prompts already. If we go over it with you, will you be able to answer the questions? Have you done any of the prompts there?
+
 We expect most of these to point to the projects that are already in the DFTW curriculum but that we can also suggest more projects too.
 
 These things are the things you need to know. When you're learning so many things - it can be tricky to stay centered. So, here's a list. We're going to try our best to give you ways to prove your understanding of these - but if we don't: It's your job to make sure you feel confident with this. Figure out a way to prove it to _yourself_. That's when you'll _really_ **know** you know it. If all else fails, practice. And ask for help to see things from a different prospective that might click.
@@ -178,7 +180,12 @@ The 'research and destroy' project is a push to get you copying existing website
 
 - [ ] Research/Destroy example [link to proof](https://peprojects.dev)
 
-- [ ] Hopefully you wanted to make more things...  [link to proof](https://peprojects.dev)
+- [ ] Hopefully you wanted to make more things... [link to proof](https://peprojects.dev)
+
+- [ ] Some examples of research might be useful for case-studies
+
+- [ ] There's _really_ no reason - why you couldn't do one of these every day...
+
 
 ---
 
@@ -193,16 +200,32 @@ We usually sneak @media rules and other tricks in based on the student. This sta
 ---
 
 
-### The name of the thing
+### Responsive tricks checklist
 
-Why it's important and how you know you for sure know it
+There are a few key things you just have to know. Then everything going forward will be much easier.
+
+You have to understand the box-model. For real. It's simple. If you can't explain it in full - then you haven't spent any time thinking trying. So, box model, box-sizing, why block elements can't be inside inline elements, how to fit it, how to make images behave, the display type options (_seriously_), clamp, media queries, a little tiny snippet of CSS grid, and CSS positioning.
+
+- [the-next-pieces](https://perpetual.education/lesson/layout-and-decisions/)
+- [responsive-layout-checklist](https://perpetual.education/resources/responsive-layout-checklist/)
 
 - [ ] Done [link to proof](https://peprojects.dev)
 
+This is where you should probably have a bunch of experiments on your websites or in CodPen. You should **want** to use positioning in interesting places. It's always one of the first things people ask about, but then when we get to it - everyone is a deer in headlights.
 
-### The name of the thing
 
-Why it's important and how you know you for sure know it
+### Mock small business project
+
+This project is supposed to throw you in the fire and give you only 4 days to complete.
+
+research, plan content, write code, style it, iterate... 
+
+And learn to _ask_ for feedback. That's key. Simple content is better than a big mess. But luckily - everyone always makes a big mess which gives us a lot to talk about.
+
+- if you are revisiting this
+	- you could flesh it out with all of your new skills
+	- or pick any real or pretend business and do another one
+	- These would be great portfolio pieces
 
 - [ ] Done [link to proof](https://peprojects.dev)
 
