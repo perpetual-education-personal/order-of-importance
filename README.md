@@ -185,7 +185,7 @@ The 'research and destroy' project is a push to get you copying existing website
 
 This is all still before flexbox.
 
-### MILESTONE-02: https://peprojects.dev/milestones/ (Derek is making these milestones ASAP)
+### MILESTONE-02: https://peprojects.dev/milestones/ (We're creating examples)
 
 Being able to create all these things - even without flexbox will prove that you really understand everything so far and especially display types and some alignment ideas.
 
@@ -342,9 +342,7 @@ This also gives you an opportunity to style across many pages / and sub projects
 
 ---
 
-...
-
-### MILESTONE-03: https://peprojects.dev/milestones/ (Derek is making these milestones ASAP)
+### MILESTONE-03: https://peprojects.dev/milestones/ (We're creating examples)
 
 ...
 
@@ -362,7 +360,7 @@ This also gives you an opportunity to style across many pages / and sub projects
 ...
 
 
-### The name of the thing
+### Programming with PHP
 
 MAMP, partials/includes, control-flow, arrays/objects, loops, functions, 
 
@@ -406,28 +404,125 @@ This is a **great** portfolio exercise. This is how brochure websites are design
 
 If you really don't like doing the visual design parts, then - this is a perfect project for you to do - _many times_.
 
-- [ ] Done [link to proof](https://peprojects.dev)
+- [ ] Done [link to proof](https://peprojects.dev) round two
 
-- [ ] Done [link to proof](https://peprojects.dev)
+- [ ] Done [link to proof](https://peprojects.dev) round three
+
+(you can do this type of thing - any time during the course / and it's a great way to build confidence)
 
 
 ---
 
-...
-
-### MILESTONE-00: https://peprojects.dev/milestones/ (Derek is making these milestones ASAP)
+### MILESTONE-04: https://peprojects.dev/milestones/ (We're creating examples)
 
 ...
 
 ---
 
 
+### Exercises for Programmers (E4P)
+
+This is where we really stress the pseudo code. There are so many opportunities here. You could write out pretty much any program in plain English - and then show the code next to it.
+
+We also learn about server-side forms. These aren't so different than other server-side frameworks like Django or Rails. So, it's worth putting in the time - even if you don't end up building forms. A lot of front-end developers don't end up having to write server-side forms. But you'll learn about the "server-side" constraints - which will be important to compare with JavaScript later.
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+Some people will want to get more detailed with:
+
+- fancy validations
+- dynamic data-backed form fields
+- this can play out over time
+
+The most important part is learning how to break down the problems.
 
 
 
-## ⬤ Section title
+## ⬤ Personal site PRO™
 
-...
+This is another level of formality for attacking the personal website. At this point, there will be a practical reason for many pages, many projects, many articles, many graphics, or whatever is happening.
+
+Now there's more surface area. More reason for layouts. More reasons for typography.
+
+content > type > layout > details + critique 
+
+(two weeks) - another level of _seriously making decisions_ -
+
+(and we'll help you make those decisions too) 
+
+
+### A new version of your website
+
+It exists. It has been tested. It's got it's whole visual language - and all the layouts in place. You're now commanding a site of a size that you can learn more from. I really learn CSS - you have to have enough surface area to see the next level of complexity.
+
+
+
+
+
+## ⬤ Personal PHP framework
+
+
+### list pages and detail pages
+
+routing with querystrings, detail templates, database ideas, form validation, route based styling, JSON,
+
+You can continue to play off of the monster adoption idea - or any other ideas you have that fit your goals/idea job.
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+It would probably be best to do it a few different ways - to practice and really get it down.
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+
+
+### CRUD
+
+Some students were behind, so we left this open to people who were ready and enthusiastic.
+
+But - it seems like everyone should do it / unless you are specifically sure you are going to be sticking with the visual design or the very front of the _front end_. It's the most simplified version of CRUD possible - but it feels good to have it under your full control.
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+
+
+### PHP theming week
+
+Cookies and Dark mode. You should know what cookies are. How they work. Why people use them. How to use them. Dark mode is a good example to use them for. You could also try a user login.
+
+There's also some tricky stuff with the --custom-properties and the classes and overriding and the prefers-colors scheme. Lots of good challenges for the brain here.
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+Living style-guides. These are a big deal. Are your modules _modular_? How hard is it to move them to different places? Can you generate pages based off of JSON? (not sure where this fits in exactly yet)
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+User testing scripts
+
+(no one in alpha-three was ready for these lessons)
+
+- [ ] Done [link to proof](https://peprojects.dev) (Google Forms - or typeforms etc.)
+
+Feedback + iteration
+
+- [ ] Done [link to proof](https://peprojects.dev) (case-study) (speaking of...)
+
+
+---
+
+### MILESTONE-05: https://peprojects.dev/milestones/ (We're creating examples)
+
+So - at this point, you would have a site of some sort. It would have pages, and list pages with resources, detail pages, data-backed pages, a site-wide style system of colors and typography, and what else is cool? Dark mode. Maybe even some crud and sign-in.
+
+Maybe it's your portfolio site. Maybe it's a fake company. Maybe it's a design system to show off your responsive layout skills and your design sense. But it's a big milestone. You might have the whole thing backed by data / and all of the pages being created dynamically.
+
+---
+
+
+
+
+## ⬤ WordPress (CMS)
 
 
 ### The name of the thing
@@ -438,15 +533,115 @@ Why it's important and how you know you for sure know it
 
 
 
+## ⬤ JavaScript Intro
+
+
+### A week of getting used to that...
+
+We go over the array/objects loops etc - and some common tricks that are fun - just like everyone said they wanted from day one...  (4 months later)
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+
+### Start exercises for programmers
+
+These can get started and grow over time
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+
+## ⬤ Mixing JavaScript into your PHP projects
+
+
+### Bunch of things...
+
+Why it's important and how you know you for sure know it
+
+- [ ] Done [link to proof](https://peprojects.dev)
 
 
 ---
 
-...
+### MILESTONE-06: https://peprojects.dev/milestones/ (We're creating examples)
 
-### MILESTONE-00: https://peprojects.dev/milestones/ (Derek is making these milestones ASAP)
+You'll have a pretty impressive WordPress project with multiple connected resources and all the things you created in your self-made framework - but with a CMS. Now you'll know ALL ABOUT content management systems. etc etc..
 
-...
+and you'll have lots of examples of using JS together with a server-side rendered system.
 
 ---
+
+
+
+## ⬤ Performance and Accessibility
+
+Now that we have big enough sites to make the points, we can really get down to business.
+
+
+### Personal site
+
+Why it's important and how you know you for sure know it
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+
+### WordPress site
+
+Why it's important and how you know you for sure know it
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+
+
+---
+
+### MILESTONE-07: https://peprojects.dev/milestones/ (We're creating examples)
+
+---
+
+
+
+## ⬤ Vanilla JavaScript mini apps
+
+Hopefully you have ideas. But if not, we'll give you some...
+
+At the very least - you'll have a really great todo list
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+- ...
+- ...
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+This also includes more command line, the whole node, npm ecosystem, modules imports exports etc. - intro to modern tooling and deployment.
+
+---
+
+### MILESTONE-08: https://peprojects.dev/milestones/ (We're creating examples)
+
+---
+
+
+## ⬤ CHOOSE YOUR OWN ADVENTURE
+
+From here... it's really going to depend on the person.
+
+Some people will want to learn JS frameworks - and other people will want to do more visual design. Some people will want to take on client work and do more WordPress.
+
+So, based on your goals: we can decide what _you_ want to do next - and how best to round out what you have - and get a job.
+
+- ...
+- ...
+
+
+
+## ⬤ Lots of open-source collaboration opportunities 
+
+...
+
+
+
+future electives... etc etc... soooo tired... this took like... sooo long.... but it's a good start
 
