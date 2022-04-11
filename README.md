@@ -239,6 +239,13 @@ But these can be really impressive to people. You should have at least 1 interac
 - [ ] Done
 
 
+### Responsive modules/components
+
+We make that stripe example. That should get things moving. There are probably some layouts and things - that you've been wanting to make - but didn't have the layout tools yet. Now you do! So, you can! Try things. Practice things. Push things. Ask questions. Maybe there's something you want to make on your website?
+ 
+- [ ] Done
+
+
 ### Super Responsive Challenge: Responsive layout (officially)
 
 This is the main deal! Front-end developers make the part that people see. That means the data that crawlers see - and the look and feel of the layout. This is when we get serious about flexbox and responsive layouts.
@@ -254,16 +261,6 @@ At this point, you should be able to recreate just about any website layout. [re
 - [ ] Done [link to challenge 2](https://peprojects.dev)
 
 
-### Responsive layout garden
-
-After you pulled off the responsive layout challenge, it's time to keep going.
-
-[responsive-layout-collection](https://perpetual.education/exercises/responsive-layout-collection/)
-
-- [ ] Done [link to proof](https://peprojects.dev)
-
-
-
 ### Sandboxes and public learning
 
 If you're having fun, you'll likely have lots of CodePens. But in general, you should be comfortable with _JSFiddle, CodePen, Glitch, Flems, Plunker or whatever_. You get how they work. You know that _sometimes_ it is better to create a small example in there - than building out a whole project locally. These are especially great for asking questions on StackOverflow and Discord etc.
@@ -271,6 +268,13 @@ If you're having fun, you'll likely have lots of CodePens. But in general, you s
 If you don't have an account on StackOverflow and Discord - and you aren't answering questions on there for practice, you are missing out on a lot of learning and you aren't building any history for recruiter to see your activity. Being able to answer questions will do wonders for your confidence and will help solidify your knowledge.
 
 - [ ] Done [link to proof](https://peprojects.dev)
+
+
+### GitHub
+
+Throughout this hole period - you'd also be learning how to make pull requests via group work on the alpha-net. This way - you can learn how to contribute to open source, learn those manners, how to deal with merge conflicts, and branches and all that Jazz. If you're doing well with that... then you might get to setup your GitHub with DeployBot to _deploy_ automatically.
+
+- [ ] Done (proof would be in your GitHub user profile)
 
 
 
@@ -297,15 +301,44 @@ This is when Ivy and Derek meet with the students. Roughly 1/3 of the way throug
 ...
 
 
-### The name of the thing
+### Visual design intros
 
-Why it's important and how you know you for sure know it
+[Inspiration](https://perpetual.education/lesson/idea-boards/), 
+[grayscale](https://perpetual.education/lesson/gray-scale/), 
+[space](https://perpetual.education/lesson/space/), 
+[contrast](https://perpetual.education/lesson/contrast/),
+color ... 
+
+These might be worth revisiting: 
+
+This section was all intros and practice. So, it's not going to end up with finished projects. It'll just get things started.
+
+Postcard exercise, secret word graphics, store style tile, symbols and icons, - there's a lot to work with there if you're interested in learning how to make graphics.
+
+These aren't going to apply to everyone. But everyone can at the very _least_ come out of this with their first style tiles. And there's no reason they can't be good. And there's no reason why that style tile can't be actually built into a real website layout. (not one person has done that from the first 3 groups)
+
+But then we start to get to some real deliverables.
 
 - [ ] Done [link to proof](https://peprojects.dev)
 
 
+### Personal website styles (with gusto!)
 
+This can still be very simple... but it's about choosing a style. It's about establishing the amount of contrast needed to be a visual "design." It's about making choices that _work_.
 
+There are a bunch of extra videos about this stuff. Derek has a bunch of speed runs that aren't even edited where he just designs sites and codes them up. It's about learning how to use a mindset/framework to be decisive.
+
+In the linear path of the class, this would likely be your 3rd version of your website.
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+At this point - and for the rest of the course, the idea is to maintain a public website that will slowly change and allow you to have a long-lived project. This will be something you sculpt and maintain. If you're deleting it - or hiding it in a sub-folder, then you're doing it wrong.
+
+This would also make a great early case-study example.
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+This also gives you an opportunity to style across many pages / and sub projects
 
 ---
 
@@ -319,6 +352,74 @@ Why it's important and how you know you for sure know it
 
 
 
+
+
+
+
+
+## ⬤ PHP
+
+...
+
+
+### The name of the thing
+
+MAMP, partials/includes, control-flow, arrays/objects, loops, functions, 
+
+This is the monster adoption week. So, there's a style-tile - and an opportunity to use all of the PHP stuff to create a dynamic page. There's a lot of opportunity to make that fun - and detailed... 
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+Or, you could also - make another site like that - or another theme. What are YOU interested in? This _should_ be an exciting milestone.
+
+
+### Responsive layout garden
+
+After you pulled off the responsive layout challenge, it's time to keep going. Now we have the modular PHP stuff - and so, - you can start collecting layouts.
+
+[responsive-layout-collection](https://perpetual.education/exercises/responsive-layout-collection/)
+
+- [ ] Done [link to proof](https://peprojects.dev)	
+
+
+### Theme challenge
+
+Pick a genre, industry: research, mood, style-tile, code,  
+
+This is not creative. This is about emulating something. You are essentially copying something that already exists - but with a high level of precision.
+
+This one is all about the details.
+
+You can get the first 80% done pretty OK by now. But the _last 20%_ is the hardest. It's those details that really make something look "pro" or _official_ or whatever that is.
+
+This will involve a lot of fine-tuning - and if you take it seriously: The goal is to make something look super serious pro. As if anyone who would look at it - wouldn't second guess it. It's either A+ or it's _not_.
+
+- [ ] Done [link to proof](https://peprojects.dev)	
+
+And - if you were on top of it, then - you'd have some extra time to make a second version, or - even make an example where you could toggle between themes. Examples: 
+
+- [alpha-1](https://peprojects.dev/alpha-1/dmccall/ultra-responsive-styled-2x/) Major league sports / Makeup,
+- [alpha-2](https://peprojects.dev/alpha-2/bdlowery/layout-paradise-v3/) Vacation family/couples, 
+- [alpha-3](https://peprojects.dev/alpha-3/tara/projects/tareuhhhhhh-gaming/) Horror gaming
+
+This is a **great** portfolio exercise. This is how brochure websites are designed and created. So, - this seems like a thing that most people should _want_ to practice.
+
+If you really don't like doing the visual design parts, then - this is a perfect project for you to do - _many times_.
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+- [ ] Done [link to proof](https://peprojects.dev)
+
+
+---
+
+...
+
+### MILESTONE-00: https://peprojects.dev/milestones/ (Derek is making these milestones ASAP)
+
+...
+
+---
 
 
 
@@ -343,7 +444,7 @@ Why it's important and how you know you for sure know it
 
 ...
 
-### MILESTONE-03: https://peprojects.dev/milestones/ (Derek is making these milestones ASAP)
+### MILESTONE-00: https://peprojects.dev/milestones/ (Derek is making these milestones ASAP)
 
 ...
 
