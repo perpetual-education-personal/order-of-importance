@@ -1,3 +1,4 @@
+
 # ROAD MAP : What you need to know
 
 In order of importance. _Please_ help us make this the best list it can be. Maybe we'll make it a JSON thing later, or somehow use it for the PHP or JS lessons. But for now: Markdown.
@@ -24,13 +25,12 @@ If you are taking a hard-line towards UX or programming specifically, then some 
 - This might be a bit long-winded as we (Derek in this case) writes it, but hopefully we can edit it down and keep it clear and simple.
 
 ---
-
-
 ## ⬤ Basics
 
-### The general names and scopes of the various computer equipment and software you are using
+### Know the general names and scopes of the various computer equipment and software you are using
 
-This might seem simple, but the reason it is so important is because the mental models for this will be foundational as you move forward. Can you explain how a basic computer works, what inputs and outputs there are, how those control the software, and how the system sends and receives messages? As with most things on this list you just need to know enough to discuss the subject and be effective.
+This might seem simple, but the reason it is so important is because the mental models for this will be foundational as you move forward. 
+Can you explain how a basic computer works, what inputs and outputs there are, how those control the software, and how the system sends and receives messages? As with most things on this list you just need to know enough to discuss the subject and be effective.
 
 Related lessons: [what-is-a-computer](https://perpetual.education/lesson/what-is-a-computer/)
 
@@ -224,7 +224,7 @@ And learn to _ask_ for feedback. That's key. Simple content is better than a big
 
 ### Start using version control
 
-For now, you can use your own website and your pe-projects folder locally. You can start building up those green squares and pushing to gitHub. It'll keep things safe, and you could practice branching.
+For now, you can use your own website and your pe-projects folder locally. You can start building up those green squares and pushing to GitHub. It'll keep things safe, and you could practice branching.
 
 - [ ] Done (the proof will be on your github profile)
 
@@ -363,16 +363,16 @@ This also gives you an opportunity to style across many pages / and sub projects
 
 MAMP, partials/includes, control-flow, arrays/objects, loops, functions, 
 
-This is the monster adoption week. So, there's a style-tile - and an opportunity to use all of the PHP stuff to create a dynamic page. There's a lot of opportunity to make that fun - and detailed... 
+This is the monster adoption week. So, there's a style-tile and an opportunity to use all of the PHP stuff to create a dynamic page. There's a lot of opportunity to make that fun and detailed.
 
 - [ ] Done [link to proof](https://peprojects.dev)
 
-Or, you could also - make another site like that - or another theme. What are YOU interested in? This _should_ be an exciting milestone.
+Or, you could also make another site like that, or another theme. What are YOU interested in? This _should_ be an exciting milestone.
 
 
 ### Responsive layout garden
 
-After you pulled off the responsive layout challenge, it's time to keep going. Now we have the modular PHP stuff - and so, - you can start collecting layouts.
+After you pulled off the responsive layout challenge, it's time to keep going. Now we have the modular PHP stuff you can start collecting layouts.
 
 [responsive-layout-collection](https://perpetual.education/exercises/responsive-layout-collection/)
 
@@ -383,31 +383,31 @@ After you pulled off the responsive layout challenge, it's time to keep going. N
 
 Pick a genre, industry: research, mood, style-tile, code,  
 
-This is not creative. This is about emulating something. You are essentially copying something that already exists - but with a high level of precision.
+This is not creative. This is about emulating something. You are essentially copying something that already exists but with a high level of precision.
 
 This one is all about the details.
 
-You can get the first 80% done pretty OK by now. But the _last 20%_ is the hardest. It's those details that really make something look "pro" or _official_ or whatever that is.
+You can get the first 80% done pretty OK by now. But the _last 20%_ is the hardest. It's those details that really make something look _pro_ or _official_ or whatever that is.
 
-This will involve a lot of fine-tuning - and if you take it seriously: The goal is to make something look super serious pro. As if anyone who would look at it - wouldn't second guess it. It's either A+ or it's _not_.
+This will involve a lot of fine-tuning, and if you take it seriously the goal is to make something look super serious pro. As if anyone who would look at it  wouldn't second guess it. It's either A+ or it's _not_.
 
 - [ ] Done [link to proof](https://peprojects.dev)	
 
-And - if you were on top of it, then - you'd have some extra time to make a second version, or - even make an example where you could toggle between themes. Examples: 
+And if you were on top of it, then you'd have some extra time to make a second version, or even make an example where you could toggle between themes. Examples: 
 
 - [alpha-1](https://peprojects.dev/alpha-1/dmccall/ultra-responsive-styled-2x/) Major league sports / Makeup,
 - [alpha-2](https://peprojects.dev/alpha-2/bdlowery/layout-paradise-v3/) Vacation family/couples, 
 - [alpha-3](https://peprojects.dev/alpha-3/tara/projects/tareuhhhhhh-gaming/) Horror gaming
 
-This is a **great** portfolio exercise. This is how brochure websites are designed and created. So, - this seems like a thing that most people should _want_ to practice.
+This is a **great** portfolio exercise. This is how brochure websites are designed and created. So, this seems like a thing that most people should _want_ to practice.
 
-If you really don't like doing the visual design parts, then - this is a perfect project for you to do - _many times_.
+If you really don't like doing the visual design parts, then this is a perfect project for you to do _many times_.
 
 - [ ] Done [link to proof](https://peprojects.dev) round two
 
 - [ ] Done [link to proof](https://peprojects.dev) round three
 
-(you can do this type of thing - any time during the course / and it's a great way to build confidence)
+(you can do this type of thing any time during the course and it's a great way to build confidence)
 
 
 ---
@@ -421,9 +421,9 @@ If you really don't like doing the visual design parts, then - this is a perfect
 
 ### Exercises for Programmers (E4P)
 
-This is where we really stress the pseudo code. There are so many opportunities here. You could write out pretty much any program in plain English - and then show the code next to it.
+This is where we really stress the pseudo code. There are so many opportunities here. You could write out pretty much any program in plain English and then show the code next to it.
 
-We also learn about server-side forms. These aren't so different than other server-side frameworks like Django or Rails. So, it's worth putting in the time - even if you don't end up building forms. A lot of front-end developers don't end up having to write server-side forms. But you'll learn about the "server-side" constraints - which will be important to compare with JavaScript later.
+We also learn about server-side forms. These aren't so different than other server-side frameworks like Django or Rails. So, it's worth putting in the time even if you don't end up building forms. A lot of front-end developers don't end up having to write server-side forms. But you'll learn about the "server-side" constraints, which will be important to compare with JavaScript later.
 
 - [ ] Done [link to proof](https://peprojects.dev)
 
@@ -445,14 +445,14 @@ Now there's more surface area. More reason for layouts. More reasons for typogra
 
 content > type > layout > details + critique 
 
-(two weeks) - another level of _seriously making decisions_ -
+Two weeks, another level of _seriously making decisions_ -
 
 (and we'll help you make those decisions too) 
 
 
 ### A new version of your website
 
-It exists. It has been tested. It's got it's whole visual language - and all the layouts in place. You're now commanding a site of a size that you can learn more from. I really learn CSS - you have to have enough surface area to see the next level of complexity.
+It exists. It has been tested. It's got its whole visual language, and all the layouts in place. You're now commanding a site of a size that you can learn more from. If you really want to learn CSS - you have to have enough surface area to see the next level of complexity.
 
 
 
@@ -463,13 +463,13 @@ It exists. It has been tested. It's got it's whole visual language - and all the
 
 ### list pages and detail pages
 
-routing with querystrings, detail templates, database ideas, form validation, route based styling, JSON,
+routing with querystrings, detail templates, database ideas, form validation, route based styling, JSON. These are important to understand. The idea of a list page and a detail page will come with with not only Wordpress, but _any framework_. 
 
-You can continue to play off of the monster adoption idea - or any other ideas you have that fit your goals/idea job.
+You can continue to play off of the monster adoption idea or any other ideas you have that fit your goals/idea job.
 
 - [ ] Done [link to proof](https://peprojects.dev)
 
-It would probably be best to do it a few different ways - to practice and really get it down.
+It would probably be best to do it a few different ways to practice and really get it down.
 
 - [ ] Done [link to proof](https://peprojects.dev)
 
@@ -479,7 +479,9 @@ It would probably be best to do it a few different ways - to practice and really
 
 Some students were behind, so we left this open to people who were ready and enthusiastic.
 
-But - it seems like everyone should do it / unless you are specifically sure you are going to be sticking with the visual design or the very front of the _front end_. It's the most simplified version of CRUD possible - but it feels good to have it under your full control.
+But it seems like everyone should do it unless you are specifically sure you are going to be sticking with the visual design or the _very front_ of the _front end_. It's the most simplified version of CRUD possible, but it feels good to have it under your full control.
+
+This is real programming, and it makes for an exceptional portfolio piece.
 
 - [ ] Done [link to proof](https://peprojects.dev)
 
@@ -605,7 +607,7 @@ Why it's important and how you know you for sure know it
 
 Hopefully you have ideas. But if not, we'll give you some...
 
-At the very least - you'll have a really great todo list. We will make that the super wrong way - and then show you how to do it right.
+At the very least you'll have a really great todo list. We will make that the super wrong way - and then show you how to do it right.
 
 - [ ] Done [link to proof](https://peprojects.dev)
 
@@ -630,9 +632,9 @@ This also includes more command line, the whole node, npm ecosystem, modules imp
 
 From here... it's really going to depend on the person.
 
-Some people will want to learn JS frameworks - and other people will want to do more visual design. Some people will want to take on client work and do more WordPress.
+Some people will want to learn JS frameworks, and other people will want to do more visual design. Some people will want to take on client work and do more WordPress.
 
-So, based on your goals: we can decide what _you_ want to do next - and how best to round out what you have - and get a job.
+So, based on your goals: we can decide what _you_ want to do next and how best to round out what you have and get a job.
 
 - ...
 - ...
